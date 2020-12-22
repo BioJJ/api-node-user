@@ -1,0 +1,11 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "user manager",
+  "main": "index.js",
+  "author": "Jefferson Coelho",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
